@@ -29,3 +29,17 @@ nav a {
     color: #333;
     font-weight: bold;
 }
+
+.contact-icon {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
